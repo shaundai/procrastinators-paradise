@@ -1,0 +1,29 @@
+.card {
+	display: flex;
+	gap: 8px;
+	flex-direction: column;
+	border: 1px solid black;
+	border-radius: 8px;
+	width: 500px;
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+	padding: 16px;
+}
+
+.name {
+	font-weight: bold;
+}
+
+.price {
+	font-weight: bold;
+}
+
+.procrastinator-level {
+	background-color: #ef9a9a;
+	color: #d32f2f;
+  border-radius: 8px;
+  padding: 0px 8px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}

@@ -1,0 +1,86 @@
+[
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Comfy Cat Ear Headphones (with built-in purring sounds)",
+		"description": "Block out distractions (or pretend to) with these adorable headphones.",
+		"price": 29.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Self-Watering Desk Herb Garden Kit",
+		"description": "Grow your own tiny garden without ever leaving your chair. Perfect for forgetting to water something small.",
+		"price": 19.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Giant Stress Ball Globe",
+		"description": "The world is in your hands (literally) with this oversized stress reliever. Great for squeezing away anxieties (or geographical challenges).",
+		"price": 14.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Coloring Book for Adults with Inspirational Quotes (Mostly About Taking Breaks)",
+		"description": "Unleash your inner child and maybe find some motivation hidden amongst the swirls.",
+		"price": 12.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Mini Arcade Cabinet with Retro Games",
+		"description": "Relive your youth with classic games. Who needs work when you can pixelatedly battle aliens?",
+		"price": 49.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Executive Eye Mask with Built-in Bluetooth Speaker for Nature Sounds",
+		"description": "Take a power nap anywhere with this luxurious mask. Don't forget to mute your microphone for important calls.",
+		"price": 34.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Pre-Chopped Fruit and Veggie Trays",
+		"description": "Healthy snacking made easy! (Except for washing the container, which is a future you problem).",
+		"price": 5.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Soap Dispensing Dish Scrubber with Silly Sayings",
+		"description": "Washing dishes is more fun with surprise messages! (\"You got this!\" or \"Maybe order takeout?\")",
+		"price": 9.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "Comfy Clothes That Look Business Casual on Zoom",
+		"description": "Maintain video call professionalism from the comfort of your pajamas. Just angle the camera carefully.",
+		"price": 39.99
+	},
+	{
+		"procrastinator_level": "Mild Procrastinator",
+		"name": "One-Button Remote Control for Streaming Services",
+		"description": "Because who needs to navigate menus when you can just endlessly scroll.",
+		"price": 19.99
+	},
+	{
+		"procrastinator_level": "Chronic Procrastinator Pro",
+		"name": "Subscription Box of Pre-Made Meal Kits with Only 3 Steps (Because Cooking Shouldn't Be Complicated)",
+		"description": "Pre-made meal kits with only 3 steps for when cooking seems like too much effort.",
+		"price": 44.99
+	},
+	{
+		"procrastinator_level": "Moderate Procrastinator",
+		"name": "Expandable Infinity Cube Fidget Toy",
+		"description": "Click, clack, and distract yourself to infinity and beyond.",
+		"price": 9.99
+	},
+	{
+		"procrastinator_level": "Moderate Procrastinator",
+		"name": "Self-Cleaning Vacuum Robot Named \"Roomba the Distractionator\"",
+		"description": "Delegate cleaning chores while you, uh, supervise very closely.",
+		"price": 199.99
+	},
+	{
+		"procrastinator_level": "Moderate Procrastinator",
+		"name": "Subscription Box of Artisanal Exotic Snacks",
+		"description": "Explore the world (from your couch) with surprise deliveries of delicious (and possibly procrastination-inducing) treats.",
+		"price": 24.99
+	}
+]

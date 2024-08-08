@@ -1,0 +1,43 @@
+#root {
+	max-width: 90vw;
+	width: 90vw;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	overflow: none;
+	flex-wrap: wrap;
+}
+
+ul {
+	list-style-type: none;
+	width: 100%;
+}
+
+ol {
+	list-style-type: none;
+	width: 100%;
+	display: flex;
+	gap: 12px;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.products {
+	display: flex;
+	flex-direction: column;
+	overflow: none;
+}
+
+.success {
+	margin: 10px 0;
+	padding: 10px;
+	border-radius: 3px 3px 3px 3px;
+	color: #270;
+	background-color: #dff2bf;
+	max-width: 1280px;
+	position: absolute;
+	width: 100%;
+	top: -30px;
+	animation: fadeout 3s;
+}
